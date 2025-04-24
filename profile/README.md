@@ -61,7 +61,7 @@
 <!-- div class="navbar" style="border: black">
 <a class="navapps-active" href="https://github.com/Majix-Co/map-server/tree/main">Main Branch</a>
 <a class="navapps" href="https://github.com/Majix-Co/map-server/tree/Linux-Installer-Tester">Linux-Test-Branch</a>
-<!-- <a class ="navapps" href="https://github.com/Majix-Co/map-server/tree/Openbeta">OpenBeta</a> -->
+<a class ="navapps" href="https://github.com/Majix-Co/map-server/tree/Openbeta">OpenBeta</a>
 <a class="navapps" href="https://github.com/Majix-Co/map-server/tree/Installmain">InstallMain</a>
 </div> -->
 <h2> Welcome to the Majix Co.</h2>
